@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: He.--A siege baby, and Childhood's memories. By J.S. Winter [pseud.].
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25589#He
 gutenberg_issued: '2008-05-24'
 gutenberg_type: Text
 identifiers:
